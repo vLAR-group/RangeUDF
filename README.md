@@ -9,17 +9,17 @@ This is the official repository of the **RangeUDF**. For technical details, plea
 **[[Paper](http://arxiv.org/abs/2204.09138)] [[Video](https://youtu.be/YahEnX1z-yw)]** <br />
 
 ### Qualitative Results
-| ![2](./figs/fig_scannet_scene0015_rec.gif)   | ![z](./figs/fig_scannet_scene0015_sem.gif) |
-| -------------------------------------------- | -------------------------------------- |
-| ![2](./figs/fig_scannet_scene0221_rec.gif)   | ![z](./figs/fig_scannet_scene0221_sem.gif) |
-| -------------------------------------------- | -------------------------------------- |
-| ![2](./figs/fig_scannet_scene0500_rec.gif)   | ![z](./figs/fig_scannet_scene0500_sem.gif) |
+| ![2](./fig_scannet_scene0015_rec.gif)   | ![z](./fig_scannet_scene0015_sem.gif) |
+| --------------------------------------- | ------------------------------------- |
+| ![2](./fig_scannet_scene0221_rec.gif)   | ![z](./fig_scannet_scene0221_sem.gif) |
+| --------------------------------------- | ------------------------------------- |
+| ![2](./fig_scannet_scene0500_rec.gif)   | ![z](./fig_scannet_scene0500_sem.gif) |
 
 
 ### Citation
 If you find our work useful in your research, please consider citing:
 
-	@article{wang2022rangeudf,
+      @article{wang2022rangeudf,
       title={RangeUDF: Semantic Surface Reconstruction from 3D Point Clouds},
       author={Bing, Wang and Zhengdi, Yu and Yang, Bo and Jie, Qin and Toby, Breckon and Ling, Shao and Trigoni, Niki and Markham, Andrew},
       journal={arXiv preprint arXiv:2204.09138},
