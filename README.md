@@ -9,13 +9,13 @@ This is the official repository of the **RangeUDF**. For technical details, plea
 **[[Paper](http://arxiv.org/abs/2204.09138)] [[Video](https://youtu.be/YahEnX1z-yw)]** <br />
 
 ### Video Demo (Youtube)
-<p align="center"> <a href="https://youtu.be/YahEnX1z-yw"><img src="./RangeUDF.jpg" width="80%"></a> </p>
+<p align="center"> <a href="https://youtu.be/YahEnX1z-yw"><img src="./figs/RangeUDF.jpg" width="80%"></a> </p>
 
 ### Qualitative Results
-| ![2](./fig_scannet_scene0015_rec.gif)   | ![z](./fig_scannet_scene0015_sem.gif) |
+| ![2](./figs/fig_scannet_scene0015_rec.gif)   | ![z](./figs/fig_scannet_scene0015_sem.gif) |
 | --------------------------------------- | ------------------------------------- |
-| ![2](./fig_scannet_scene0221_rec.gif)   | ![z](./fig_scannet_scene0221_sem.gif) |
-| ![2](./fig_scannet_scene0500_rec.gif)   | ![z](./fig_scannet_scene0500_sem.gif) |
+| ![2](./figs/fig_scannet_scene0221_rec.gif)   | ![z](./figs/fig_scannet_scene0221_sem.gif) |
+| ![2](./figs/fig_scannet_scene0500_rec.gif)   | ![z](./figs/fig_scannet_scene0500_sem.gif) |
 
 
 ### Citation
