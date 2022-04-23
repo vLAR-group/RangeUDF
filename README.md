@@ -8,6 +8,9 @@ This is the official repository of the **RangeUDF**. For technical details, plea
 [Bing Wang](https://www.cs.ox.ac.uk/people/bing.wang/), [Zhengdi Yu](), [Bo Yang](https://yang7879.github.io/), [Jie Qin](https://sites.google.com/site/firmamentqj/), [Toby Breckon](https://breckon.org/toby/), [Ling Shao](https://scholar.google.com/citations?user=z84rLjoAAAAJ&hl=en), [Niki Trigoni](https://www.cs.ox.ac.uk/people/niki.trigoni/), [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/). <br />
 **[[Paper](http://arxiv.org/abs/2204.09138)] [[Video](https://youtu.be/YahEnX1z-yw)]** <br />
 
+### Video Demo (Youtube)
+<p align="center"> <a href="https://youtu.be/YahEnX1z-yw"><img src="./RangeUDF.jpg" width="80%"></a> </p>
+
 ### Qualitative Results
 | ![2](./fig_scannet_scene0015_rec.gif)   | ![z](./fig_scannet_scene0015_sem.gif) |
 | --------------------------------------- | ------------------------------------- |
