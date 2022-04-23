@@ -12,7 +12,6 @@ This is the official repository of the **RangeUDF**. For technical details, plea
 | ![2](./fig_scannet_scene0015_rec.gif)   | ![z](./fig_scannet_scene0015_sem.gif) |
 | --------------------------------------- | ------------------------------------- |
 | ![2](./fig_scannet_scene0221_rec.gif)   | ![z](./fig_scannet_scene0221_sem.gif) |
-| --------------------------------------- | ------------------------------------- |
 | ![2](./fig_scannet_scene0500_rec.gif)   | ![z](./fig_scannet_scene0500_sem.gif) |
 
 
