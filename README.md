@@ -1,4 +1,6 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2204.09138-b31b1b.svg)](https://arxiv.org/abs/2204.09138)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/vLAR-group/RangeUDF/blob/main/LICENSE)
+[![Twitter Follow](https://img.shields.io/twitter/follow/vLAR_Group?style=social)](https://twitter.com/vLAR_Group)
 
 # RangeUDF: Semantic Surface Reconstruction from 3D Point Clouds
 
