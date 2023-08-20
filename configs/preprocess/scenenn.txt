@@ -1,0 +1,7 @@
+exp_name = scenenn
+raw_data_dir = data/scenenn/source/scenenn_dec24_data
+input_data_glob = /*/*.ply
+sample_std_dev = [0.08, 0.02, 0.003]
+sample_ratio = [0.01, 0.49, 0.5]
+num_points=10000
+num_cpus=16

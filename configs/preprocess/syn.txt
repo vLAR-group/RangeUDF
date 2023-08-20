@@ -1,0 +1,7 @@
+exp_name = syn
+raw_data_dir=data/synthetic/source/rooms_04
+input_data_glob=/*/*.obj
+sample_std_dev = [0.08, 0.02, 0.003]
+sample_ratio = [0.01, 0.49, 0.5]
+num_points=10000
+num_cpus=16
