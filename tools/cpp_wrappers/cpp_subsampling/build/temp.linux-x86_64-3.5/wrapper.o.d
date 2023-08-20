@@ -1,0 +1,1 @@
+commandline: -I/home/bw1/miniconda2/envs/ndf-randla/lib/python3.5/site-packages/numpy/core/include -I/home/bw1/miniconda2/envs/ndf-randla/include/python3.5m -c-std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0-I/home/bw1/miniconda2/envs/ndf-randla/lib/python3.5/site-packages/numpy/core/include -I/home/bw1/miniconda2/envs/ndf-randla/include/python3.5m
