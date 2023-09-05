@@ -109,6 +109,13 @@ CUDA_VISIBLE_DEVICES=0 python evaluate.py --config configs/test/s3dis.txt --log_
 
 Waiting for update
 
+### (3) How to use pretrain model
+We provide pre-trained models using the default settings file. You can just place the file in the corresponding dir `experiments/{exp_name}/{log_dir}/checkpoints/`, then rename as `checkpoint_best.tar`.
+```bash
+CUDA_VISIBLE_DEVICES=0 python gen_{exp_name}.py --config configs/test/{exp_name}.txt --concat 3  --log_dir {log_dir}  --in_dim 3 --num_points 10000 --ckpt {any ckpt_name you like}
+
+CUDA_VISIBLE_DEVICES=0 python evaluate.py --config configs/test/{exp_name}.txt --log_dir {log_dir} --ckpt {ckpt_name same as up line}
+
 ### Citation
 If you find our work useful in your research, please consider citing:
 
